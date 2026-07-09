@@ -1,0 +1,111 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: Arial, sans-serif;  
+}
+nav{
+    
+    width:90vw;
+    margin: 0 auto;
+    padding: 20px 0;
+    
+
+}
+
+.logo{
+    width: 65px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ul{
+    display: inline-block;
+    margin-left: 180px;
+   
+   
+}
+
+Li{
+    display: inline;
+    list-style: none;
+    margin: 0 16px;
+}
+
+ul>li>a{
+    text-decoration: none;
+    color:grey;
+    font-size: 20px;
+}
+
+a:hover{
+    color:black;
+}
+
+.user{
+     display: inline-block;
+     margin-left:150px;
+     text-decoration: none;
+     color:#2f6df6;
+     background-color: #eef5ff;
+     padding:12px 22px;
+     border-radius: 10px;
+     font-weight: 600;
+}
+
+.hero{
+    width: 90vw;
+    height: 80vh;
+    margin: 0 auto;
+    padding-top: 40px;
+
+}
+.left{
+    display: inline-block;
+    width: 46%;
+    vertical-align: middle;
+    padding-left: 30px;
+}
+
+.image{
+    display: inline-block;
+    width: 50%;
+    vertical-align: middle;
+    text-align: right;
+}
+
+.left h1{
+    font-size: 60px;
+    line-height: 1.2;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.left span{
+    color:#2f6df6
+}
+.left p{
+    width:500px;
+    font-size: 22px;
+    margin: 25px 0;
+    color:gray;
+    line-height: 1.6;
+}
+
+button{
+    width: 240px;
+    height: 60px;
+    cursor: pointer;
+    border: none;
+    border-radius: 12px;
+    background: #2f6df6;
+    color: white;
+    font-size: 20px;
+}
+
+
+.image img{
+    width:500px;
+    height: auto;
+}
+

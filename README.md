@@ -1,28 +1,74 @@
-# Laundry Wallah / Laundry Mart
+# Laundry Services Website
 
-A simple informational landing page for a laundry service.
+A modern and responsive hero section website for professional laundry services. This project showcases a clean design with a call-to-action for booking laundry services.
 
-## Overview
+## 📋 Project Structure
 
-This webpage introduces Laundry Wallah / Laundry Mart and highlights core laundry services, pricing, and a booking form.
+```
+task4/
+├── index.html      # Main HTML file
+├── style.css       # Stylesheet
+├── README.md       # Project documentation
+└── assets/
+    ├── logo.jpg    # Navigation logo
+    └── image.webp  # Hero section image
+```
 
-## Features
+## 🎨 Features
 
-- Welcome header and service description
-- Service list with key offerings
-- Price list for common laundry options
-- Simple booking form for name, email, and phone
-- Contact information in the footer
+- **Responsive Navigation Bar**
+  - Logo branding
+  - Navigation menu (Home, Services, About Us, Contact Us)
+  - User account link
 
-## Files
+- **Hero Section**
+  - Compelling headline about laundry services
+  - Descriptive text highlighting service benefits
+  - Call-to-action button ("Book a Service Today!")
+  - Hero image showcase
 
-- `index.html` — main webpage content
-- `washing-machine-and-laundry-laundry-sticker-png.webp` — featured image used on the page
+- **Modern Styling**
+  - Clean and professional design
+  - Responsive layout
+  - Hover effects on navigation links
+  - Blue accent colors for buttons and user links
 
-## Usage
+## 🚀 Getting Started
 
-1. Open `index.html` in a web browser.
-2. Review the service details and pricing.
-3. Fill in the booking form to simulate a request.
+1. **Clone or download** the project files
+2. **Add required assets:**
+   - `logo.jpg` - Your company logo
+   - `image.webp` - Hero section image (washing machine or service image)
+3. **Open** `index.html` in your web browser
 
+## 📁 File Descriptions
+
+### `index.html`
+- Main markup file with semantic HTML structure
+- Navigation header with branding
+- Hero section with content and CTA button
+
+### `style.css`
+- Global styles (reset, font settings)
+- Navigation styling with hover effects
+- Hero section layout and positioning
+
+## 🎯 Key Sections
+
+### Navigation
+- Logo display (65px width)
+- Horizontal menu links with hover effects
+- User profile link with blue styling
+
+### Hero Section
+- Two-column layout (text on left, image on right)
+- H1 headline with highlight span
+- Service description
+- Primary CTA button
+
+## 🎨 Color Scheme
+
+- **Primary Link Color:** #2f6df6 (Blue)
+- **Background Accent:** #eef5ff (Light Blue)
+- **Text Color:** Grey (navigation), Black (on hover)
 
